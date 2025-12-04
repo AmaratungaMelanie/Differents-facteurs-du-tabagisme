@@ -89,10 +89,10 @@ L’âge et une consommation modérée de tabac augmentent significativement la 
 
 Plusieurs indicateurs confirment la qualité du modèle :
 
-Métrique	| Résultat	| Interprétation
-Pseudo R² de McFadden	| Satisfaisant | Bonne qualité d'ajustement
-Test du chi² (likelihood ratio)	| p < 0.05	| Modèle globalement significatif
-AUC de la courbe | ROC	0.9879 |	Excellent pouvoir discriminant
+Métrique	| Résultat	| Interprétation |
+1)Pseudo R² de McFadden	| Satisfaisant | Bonne qualité d'ajustement
+2)Test du chi² (likelihood ratio)	| p < 0.05	| Modèle globalement significatif
+3)AUC de la courbe | ROC	0.9879 |	Excellent pouvoir discriminant
 
 Les distributions des probabilités prédites montrent une séparation nette entre individus malades et sains.
 
